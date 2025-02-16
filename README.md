@@ -1,0 +1,1 @@
+### this is a discord bot created to help organize and entertain servers. it has commands to search for movie information, including synopses, ratings, and details about cast and direction. easy to use
